@@ -1,4 +1,4 @@
 repository "Primavera Sound@LV_DeliveryTeam@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main/Environment Branch/WithNewDeckFiascaAhmad" 
+     
